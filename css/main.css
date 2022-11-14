@@ -556,7 +556,6 @@ opacity: 1;
 }
 .youtube .youtube__area {
   width: 1920px;
-  background-color: #fe655e;
   position: absolute;
   left:50%;
   margin-left: calc(1920px / -2);
@@ -588,7 +587,6 @@ opacity: 1;
 }
 .youtube .inner{
   height: 700px;
-  background-color: blue;
 }
 .youtube .floating1 {
   position: absolute;
